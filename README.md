@@ -5,7 +5,6 @@
 - 🎓 Passionate about analytics, AI, and delivering impactful solutions
 - 💡 Eager to learn new ML techniques and implications
 - 👯 Looking to collaborate on organizational transformation through AI and Analytics
-- 😄 Pronouns: he/ him
 - ⚡ Fun fact: Sports lover, like to travel with family
 
 🛠 **Skills:**
