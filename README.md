@@ -6,7 +6,7 @@
 - 💡 Eager to learn new ML techniques and implications
 - 👯 Looking to collaborate on organizational transformation through AI and Analytics
 - 😄 Pronouns: he/ him
-- ⚡ Fun fact: I'm a sports lover
+- ⚡ Fun fact: Sports lover, like to travel with family
 
 🛠 **Skills:**
 - Python, Tableau
