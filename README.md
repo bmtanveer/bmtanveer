@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Bhuiyan Tanveer 👋
 
-<!--
-**bmtanveer/bmtanveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About me:**
+- 🏢 Senior Project Manager at TELUS, Toronto, Canada
+- 🎓 Passionate about analytics, AI, and delivering impactful solutions
+- 💡 Eager to learn new ML techniques and implications
+- 👯 Looking to collaborate on organizational transformation through AI and Analytics
+- 😄 Pronouns: he/ him
+- ⚡ Fun fact: I'm a sports lover
 
-Here are some ideas to get you started:
+🛠 **Skills:**
+- Python, Tableau
+- Project Management (PMP, CSM Certified)
+- Data Analysis and Predictive Modeling
+- Change Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect:**
+- LinkedIn: www.linkedin.com/in/bhuiyantanveer
+- Email: Bhuiyan.Tanveer@yahoo.com
